@@ -1,0 +1,223 @@
+body {
+    background-color: hsl(328, 19%, 87%);
+    font-family: 'Playpen Sans', cursive;
+    font-weight: 400;
+}
+
+.Titel-Achtergrond {
+    background-image: url(../Images/Titel\ achtergrond.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.Titel-Achtergrond img {
+    width: 5%;
+    margin-left: 6rem;
+    padding-top: 1rem;
+}
+
+.Titel-Achtergrond h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 500%;
+    max-width: 40rem;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 22%;
+    color: hsl(51, 51%, 48%);
+}
+
+.Titel-Achtergrond p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 200%;
+    max-width: 40rem;
+    margin: 0 auto;
+    text-align: center;
+    color: hsl(351, 75%, 65%);
+    padding-bottom: 25%;
+}
+
+.Content-Page {
+    background: hsl(328, 20%, 87%);
+}
+
+.Content-Frame {
+    max-width: 60rem;
+    margin: 5rem auto;
+    border: 2px solid hsl(351, 75%, 65%);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px hsl(359, 54%, 46%);
+    padding: 2rem 10rem;
+    text-align: center;
+}
+
+.Content-Frame img {
+    border-radius: 10px;
+}
+
+.Content-Frame h2 {
+    font-family: 'Playpen Sans', cursive;
+    font-weight: 600;
+    margin: 2rem 0;
+}
+
+.Content-Frame p {
+    margin: 1rem 0;
+}
+
+.Content-Frame a {
+    display: inline-block;
+    background-color: hsl(351, 75%, 65%);
+    border: 2px solid hsl(351, 75%, 65%);
+    border-radius: 30px;
+    box-shadow: 4px 4px 4px hsl(351, 80%, 29%);
+    padding: 1rem;
+    margin-top: 2rem;
+    color: hsl(0, 0%, 100%);
+}
+
+.Content-Frame-Formules {
+    max-width: 50rem;
+    margin: 5rem auto;
+    border: 2px solid hsl(351, 75%, 65%);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px hsl(359, 54%, 46%);
+    padding: 2rem 5rem;
+}
+
+.Content-Frame-Formules h2 {
+    font-family: 'Playpen Sans', cursive;
+    font-weight: 600;
+    margin: 1rem 0 2rem 0;
+    text-align: center;
+}
+
+.Content-Frame-Formules p {
+    margin: 1rem 0;
+}
+
+.Details {
+    text-align: center;
+}
+
+.Details span {
+    display: inline-block;
+    background-color: hsl(351, 75%, 65%);
+    border: 2px solid hsl(351, 75%, 65%);
+    border-radius: 30px;
+    box-shadow: 4px 4px 4px hsl(351, 80%, 29%);
+    padding: 1rem;
+    margin: 0 auto 1rem auto;
+    color: hsl(0, 0%, 100%);
+    text-decoration: underline;
+}
+
+.Content-Frame-Line {
+    max-width: 80rem;
+    margin: 0rem auto 5rem auto;
+    border-top: 2px dashed hsl(351, 75%, 65%);
+    padding: 2rem 10rem;
+}
+
+h2 {
+    font-family: 'Playpen Sans', cursive;
+    font-weight: 600;
+    max-width: 80rem;
+    margin: 5rem auto 0 auto;
+    font-size: 180%;
+}
+
+.Content-Frame-Line p {
+    margin: 1rem 0;
+}
+
+.Content-Frame-Line img {
+    border-radius: 10px;
+    width: 50%;
+    margin-bottom: 4rem;
+}
+
+.Content-Frame-Line a {
+    display: inline-block;
+    background-color: hsl(351, 75%, 65%);
+    border: 2px solid hsl(351, 75%, 65%);
+    border-radius: 30px;
+    box-shadow: 4px 4px 4px #840f21;
+    padding: 1rem;
+    margin-top: 2rem;
+    color: hsl(0, 0%, 100%);
+}
+
+.Content-Center {
+    max-width: 80rem;
+    margin: 0rem auto 5rem auto;
+    padding: 2rem 10rem;
+    text-align: center;
+    border-top: 2px dashed hsl(351, 75%, 65%);
+}
+
+.Content-Center p {
+    margin: 1rem auto;
+}
+
+.Content-Center span {
+    display: inline-block;
+    background-color: hsl(0, 0%, 100%);
+    border: 2px solid hsl(351, 75%, 65%);
+    border-radius: 30px;
+    box-shadow: 4px 4px 4px hsl(351, 80%, 29%);
+    padding: 1rem 10rem;
+    margin: 1rem auto 0 auto;
+}
+
+.Footer {
+    background-color: hsl(351, 75%, 65%);
+    color: hsl(0, 0%, 100%);
+    padding-bottom: 3rem;
+    background-image: url(../Images/Logo.png);
+    background-size: 20%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: right 5% bottom 45%;
+    margin-top: 5rem;
+}
+
+.Footer h3 {
+    font-family: 'Playpen Sans', cursive;
+    font-weight: 600;
+    padding: 2rem 0 1rem 5rem;
+}
+
+.Footer a {
+    color: hsl(0, 0%, 100%);
+    padding: 0 6rem;
+}
+
+.Footer ul {
+    padding: 0 7rem;
+    word-break: break-word;
+}
+
+.Header {
+    background-image: url(../Images/Titel\ achtergrond.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position-y: -12rem;
+}
+
+.Header img {
+    width: 5%;
+    margin-left: 6rem;
+    padding-top: 1rem;
+}
+
+.Header h1 {
+    font-family: 'Indie Flower', cursive;
+    color: #baa83c;
+    max-width: 60rem;
+    margin: 5rem auto;
+    text-align: center;
+    font-size: 300%;
+    padding-bottom: 5rem;
+}
